@@ -8,7 +8,6 @@
         }
     ],
 	"require": {
-		"setasign/fpdf": "dev-master",
 		"setasign/fpdi_pdf-parser": "^2.0"
 	},
 	"require-dev": {
